@@ -6,6 +6,14 @@ firstApp.controller('FirstCtrl',
 
       $scope.title = "hello world for realz";
 
+      $scope.cats = ['Kitty',
+                     'Ginger',
+                     'Gizmo',
+                     'Tom',
+                     'Shadow',
+                     'Chloe',
+                     'Smokey'];
+
     }]);
 
 
